@@ -3,5 +3,5 @@
 
     $grau = ($fTemp - 32) * 5/9;
 
-    echo $grau;
+    echo $grau . 'ºC';
 ?>
