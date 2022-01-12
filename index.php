@@ -9,7 +9,7 @@
 <body>
     <form action="celcius.php" method="POST">
         <input name="fahTemp" type="number" placeholder="Temperatura Fahrenheit: ">
-        <button type="submit">Resultado:</button>
+        <button type="submit">Converter:</button>
     </form>
 </body>
 </html>
